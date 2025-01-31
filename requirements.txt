@@ -1,0 +1,9 @@
+streamlit
+plotly
+ultralytics
+opencv-python
+numpy
+pillow
+pandas
+streamlit-lottie
+requests
